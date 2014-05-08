@@ -233,15 +233,7 @@ nav.mainmenu ul li {
     margin: 0 0.7%;
 }
 nav.mainmenu li a>img{
-    display: none;
-    visibility: hidden;
-}
-nav.mainmenu li a:hover>img{
-    display: inline;
-    visibility: visible;
-}
-nav.mainmenu li a:hover>span{
-    display: none;
+    display: none;    
 }
 nav.mainmenu li a.active>span{
     display: none;

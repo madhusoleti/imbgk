@@ -49,4 +49,21 @@ $(function () {
 		
 	});
 
+	$("#app-nav-menu").on('mouseenter', "a", function (e) {
+		$this = $(this);
+		if(!($(this).hasClass('active'))){
+			$(this).find('span').slideUp(500, function(){
+				$this.find('img').slideDown();	
+			});				
+		}
+	});
+	$("#app-nav-menu").on('mouseleave', "a", function (e) {
+		$this = $(this);
+		if(!($(this).hasClass('active'))){
+			$(this).find('img').slideUp(500, function () {
+				$this.find('span').slideDown();	
+			});	
+		}
+	});
+
 });
