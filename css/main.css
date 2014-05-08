@@ -243,6 +243,15 @@ nav.mainmenu li a:hover>img{
 nav.mainmenu li a:hover>span{
     display: none;
 }
+nav.mainmenu li a.active>span{
+    display: none;
+}
+nav.mainmenu li a.active>img{
+    display: inline;
+    visibility: visible;
+}
+
+
 nav.mainmenu li >div{
     width: 2px;
 
