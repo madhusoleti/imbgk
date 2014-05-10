@@ -4,6 +4,30 @@
 		"selected_items":
 		[
 			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"mou",
+				"mouseenter"
+			],
+			[
+				"fade",
+				"fadeIn"
+			],
+			[
+				"am",
+				"animate"
+			],
+			[
+				"fun",
+				"fun	Function"
+			],
+			[
 				"ma",
 				"max-height"
 			],
@@ -90,10 +114,6 @@
 			[
 				"cart",
 				"cart_type_id"
-			],
-			[
-				"fun",
-				"function"
 			]
 		]
 	},
@@ -103,7 +123,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 64343,
+				"buffer_size": 66998,
 				"line_ending": "Unix"
 			}
 		},
@@ -111,7 +131,7 @@
 			"file": "css/main.css",
 			"settings":
 			{
-				"buffer_size": 10592,
+				"buffer_size": 13645,
 				"line_ending": "Unix"
 			}
 		},
@@ -119,7 +139,7 @@
 			"file": "js/main.js",
 			"settings":
 			{
-				"buffer_size": 346,
+				"buffer_size": 5969,
 				"line_ending": "Unix"
 			}
 		}
@@ -208,6 +228,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"\n			",
+			"						",
 			"nav",
 			"\n                            ",
 			"nav a",
@@ -251,7 +273,7 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -259,15 +281,15 @@
 					"file": "index.html",
 					"settings":
 					{
-						"buffer_size": 64343,
+						"buffer_size": 66998,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3506,
-								3506
+								60394,
+								60394
 							]
 						],
 						"settings":
@@ -277,7 +299,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 378.0,
+						"translation.y": 1826.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -287,15 +309,15 @@
 					"file": "css/main.css",
 					"settings":
 					{
-						"buffer_size": 10592,
+						"buffer_size": 13645,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								4467,
-								4467
+								9463,
+								9463
 							]
 						],
 						"settings":
@@ -305,7 +327,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 3896.0,
+						"translation.y": 8814.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -315,23 +337,24 @@
 					"file": "js/main.js",
 					"settings":
 					{
-						"buffer_size": 346,
+						"buffer_size": 5969,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								255,
-								255
+								4189,
+								4189
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 18.0,
+						"translation.y": 2472.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
